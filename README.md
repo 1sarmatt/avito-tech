@@ -112,3 +112,6 @@ src/
   └── utils/         # Helper functions and utilities
 ```
 
+<img src="10.png" alt="Dashboard" width="500">
+<img src="11.png" alt="Creating new task" width="500">
+<img src="12.png" alt="Issues" width="500">
